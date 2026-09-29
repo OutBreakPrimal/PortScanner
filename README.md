@@ -1,1 +1,1 @@
-My attempt at creating port scanning script 
+TCP port scanner in Python
